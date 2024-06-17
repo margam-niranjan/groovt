@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "619158698850",
+    "project_id": "groovy-61770",
+    "storage_bucket": "groovy-61770.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619158698850:android:719a1728d39295262bca3b",
+        "android_client_info": {
+          "package_name": "com.example.groovt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUw_K_UJeOUzwI_9PqcsRNoaGZSWxHkS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
